@@ -1,4 +1,4 @@
-#Ocaml-cli-starter
+# Ocaml-cli-starter
 
 This is a starter kit to make cli with OCaml.
 
